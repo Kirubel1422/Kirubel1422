@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirubel Mamo</h1>
-<h3 align="center">A passionate frontend developer from Dubai</h3>
+<h3 align="center">A passionate web developer from Dubai</h3>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/wF5RiCnfj34AAAAC/work-computer.gif" alt="programming guy gif" width="400"/>
