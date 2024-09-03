@@ -5,8 +5,6 @@
   <img src="https://media1.tenor.com/m/wF5RiCnfj34AAAAC/work-computer.gif" alt="programming guy gif" width="400"/>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirubel1422" alt="kirubel1422" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-chi-mauve.vercel.app/](https://personal-portfolio-chi-mauve.vercel.app/)
 
 - 💬 Ask me about **react, redux, rtk, nextjs, mongodb, express**
