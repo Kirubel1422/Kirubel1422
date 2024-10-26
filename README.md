@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-chi-mauve.vercel.app/](https://personal-portfolio-chi-mauve.vercel.app/)
 
-- 💬 Ask me about **react, redux, rtk, nextjs, mongodb, express**
+- 💬 Ask me about **react, redux, rtk, nextjs, mongodb, express, firebase, nodejs**
 
 - 📫 How to reach me **kirubeltekle9@gmail.com**
 
