@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kirubel Mamo</h1>
 <h3 align="center">A passionate web developer from UAE</h3>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/wF5RiCnfj34AAAAC/work-computer.gif" alt="programming guy gif" width="400"/>
-</p>
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-chi-mauve.vercel.app/](https://personal-portfolio-chi-mauve.vercel.app/)
 
-- 💬 Ask me about **react, redux, rtk, nextjs, mongodb, express, firebase, nodejs**
+- 💬 Ask me about **react, redux, rtk, nextjs, mongodb, express, firebase, nodejs, mongodb, python, socket-level programming**
 
 - 📫 How to reach me **kirubeltekle9@gmail.com**
 
