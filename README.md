@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirubel Mamo</h1>
-<h3 align="center">A passionate web developer from UAE</h3>
+<h3 align="center">A passionate software engineer from UAE</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-chi-mauve.vercel.app/](https://personal-portfolio-chi-mauve.vercel.app/)
