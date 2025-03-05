@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on scalable web applications, cloud infrastructure, and backend optimizations.<br>👯 I’m looking to collaborate on MERN stack projects, AWS-based solutions, and DevOps automation.<br>🤝 I’m looking for help with enhancing security and performance for VPS hosting and cloud deployments.<br>🌱 I’m currently learning advanced AWS services,  and microservices architecture.<br>💬 Ask me about full-stack development, server management, and cloud solutions.<br>⚡ Fun fact: I love optimizing deployments and automating tasks—because efficiency is everything! 🚀
+# K!7vbel Mamo ⚡
+🔭 I’m currently working on scalable web applications. <br>🤝 I’m looking for help with enhancing security and performance for VPS hosting and cloud deployments. <br>💬 Ask me about full-stack development, and or server management. <br>👌 I’m eager to learn laravel.<br>⚡ Fun fact: I love chess.
 
 
 ## 🌐 Socials:
@@ -12,8 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kirubel1422&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirubel1422&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kirubel1422&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kirubel1422&icon=0&color=0)](https://visitcount.itsvg.in)
