@@ -1,5 +1,5 @@
-# K!7vbel Mamo ⚡
-🔭 I’m currently working on scalable web applications. <br>🤝 I’m looking for help with enhancing security and performance for VPS hosting and cloud deployments. <br>💬 Ask me about full-stack development, and or server management. <br>👌 I’m eager to learn laravel.<br>⚡ Fun fact: I love chess.
+# Ki4a ⚡
+🔭 I’m currently working on scalable web applications. <br>💬 Ask me about full-stack development, and or server management. <br>👌 I’m eager to learn laravel.<br>⚡ Fun fact: I love <b>chess</b>.
 
 
 ## 🌐 Socials:
