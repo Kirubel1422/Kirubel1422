@@ -1,2 +1,5 @@
-## I'm Kirubel. 
-Talented Software Dev from the UAE.
+## I'm Kirubel Mamo. 
+
+```bash
+echo "I am Web DevSec & Bug Bounty Hunter."
+```
