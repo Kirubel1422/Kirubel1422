@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Linux-black?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Editor-VSCode-black?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Shell-Bash-black?style=for-the-badge&logo=gnubash" />
+  <img src="https://img.shields.io/badge/Shell-Zsh-black?style=for-the-badge&logo=zsh" />
   <img src="https://img.shields.io/badge/Focus-%20Security-black?style=for-the-badge" />
 </p>
 
