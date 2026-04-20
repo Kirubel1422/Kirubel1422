@@ -1,13 +1,13 @@
 <div align="center">
 
-```
+<pre>
  ██████╗ ██╗   ██╗████████╗██╗███████╗
 ██╔═████╗██║   ██║╚══██╔══╝██║██╔════╝
 ██║██╔██║██║   ██║   ██║   ██║███████╗
 ████╔╝██║██║   ██║   ██║   ██║╚════██║
 ╚██████╔╝╚██████╔╝   ██║   ██║███████║
  ╚═════╝  ╚═════╝    ╚═╝   ╚═╝╚══════╝
-```
+</pre>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Application+Security+Engineer;Web+App+Exploitation;Red+Teaming+%26+Pentesting;Aspiring+Exploit+Developer;%24+sudo+break+--everything)](https://git.io/typing-svg)
 
@@ -81,11 +81,11 @@
 
 <div align="center">
 
-```
+<pre>
 ╔═══════════════════════════════════════════════════════════╗
 ║   "To defend the system, you must first learn to own it." ║
 ╚═══════════════════════════════════════════════════════════╝
-```
+</pre>
 
 **`root@0utis:~# █`**
 
